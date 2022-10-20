@@ -1,5 +1,7 @@
 package pt.maven.theTree;
 
+//rozmowa użytkownika z terminalem
+
 public class myTree<T extends Comparable<T>>
 {
     private myNode<T> root;
