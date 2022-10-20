@@ -1,6 +1,6 @@
 package pt.maven.theTree;
 
-//rozmowa użytkownika z terminalem
+//Uruchamia oczekianie na inpu usera, pojedyncze drzewo
 
 public class myTree<T extends Comparable<T>>
 {
