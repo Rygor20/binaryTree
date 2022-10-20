@@ -1,6 +1,6 @@
 package pt.maven.theTree;
 
-//Jedno drze dla jednego usera
+//Uruchamia oczekianie na input usera, pojedyncze drzewo
 
 public class myTree<T extends Comparable<T>>
 {
