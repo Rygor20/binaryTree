@@ -1,6 +1,6 @@
 package pt.maven.theTree;
 
-//rozmowa użytkownika z terminalem
+//Jedno drze dla jednego usera
 
 public class myTree<T extends Comparable<T>>
 {
